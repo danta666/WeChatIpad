@@ -1,5 +1,5 @@
 # ipad协议 Ipad ipad协议 ipad协议
-ipad协议,ipad最新协议接口(**已更新最新8.0.50版本**，区别于没人维护的半成品)，安全、稳定、定期保持更新，**无封号问题**(大量的实践得到稳定的安全策略)。<br><br>
+ipad协议,ipad最新协议接口(**已更新最新8.0.53版本，区别于没人维护的半成品**)，安全、稳定、定期保持更新，**无封号问题**(大量的实践得到稳定的安全策略)。<br><br>
 如果你想得到**高质量的一对一服务、最新版的协议功能、不受各种封号风控影响、实时性较强的日常维护，长期稳定合作共赢**，那么请添加qq号详谈，将会为你的产品保驾护航<br><br>
 提供**高性能、高可靠、高并发、低延时的API接口**,有需要的可以添加(**如果你是黑灰请勿扰**) qq：**2950561045** (**添加请备注你的业务，不针对个人，只针对公司**)<br><br>
 
@@ -16,8 +16,10 @@ ipad协议,ipad最新协议接口(**已更新最新8.0.50版本**，区别于没
 ![d29d2bacd00b0ec6e01673d7d5a6f69](https://github.com/danta666/WeChatIpad/assets/29486192/4f77e9ae-23bb-40d2-99af-0c64f153e08b)
 ![8707a0c6a05cbaab2ffa1a557ad53d7](https://github.com/danta666/WeChatIpad/assets/29486192/9ea226eb-6a63-49f7-a945-fe4f8324ae0b)
 ![9aedfc613af85037510c7ceb01cead7](https://github.com/danta666/WeChatIpad/assets/29486192/e48ca0f6-2fe1-45f4-917e-3c9ff980dff2)
-![768510c3fc469e27601d4f117799026](https://github.com/danta666/WeChatIpad/assets/29486192/f4506edf-8353-4795-9e1e-fcc122a2aeb5)
-![e9091d357cdb45d0eace7b597c84d86](https://github.com/danta666/WeChatIpad/assets/29486192/1dd73a1d-149f-4f45-8f36-5fb170022bb3)
+![image](https://github.com/user-attachments/assets/d072f38a-bbc4-475d-920e-8869f884269d)
+
+![image](https://github.com/user-attachments/assets/44e02884-1096-4816-b0e0-36147c962f03)
+
 ![image](https://github.com/danta666/WeChatIpad/assets/29486192/3827b085-f401-48b7-8f32-372695b250a8)
 ![1710252098040](https://github.com/danta666/WeChatIpad/assets/29486192/8ae13e38-78a9-485e-b4f9-b5d519b4ba00)
 ![image](https://github.com/danta666/WeChatIpad/assets/29486192/f10d9bd0-8218-4cc6-8cda-7d7e4a27886d)
